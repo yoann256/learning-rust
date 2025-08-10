@@ -1,0 +1,17 @@
+[package]
+name = "learning"
+version = "1.0.0"
+edition = "2024"
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[lib]
+name = "lib"
+path = "lib/lib.rs"
+
+[dependencies]
+rand = "0.8"
+chrono = "0.4.41"
+json = "0.12.4"
