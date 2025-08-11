@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yoann.degardin\\Documents\\learning-rust\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann.degardin\\Documents\\learning-rust\\main.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.rs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\time.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\time.rs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\calc.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\calc.rs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann.degardin\\Documents\\learning-rust\\main.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.rs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\lib.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.rs",
               "DocumentMoniker": "C:\\Users\\yoann.degardin\\Documents\\learning-rust\\main.rs",
               "RelativeDocumentMoniker": "main.rs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "time.rs",
               "DocumentMoniker": "C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\time.rs",
               "RelativeDocumentMoniker": "lib\\time.rs",
               "ToolTip": "C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\time.rs",
               "RelativeToolTip": "lib\\time.rs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-10T10:30:15.312Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "LICENSE.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-10T10:20:35.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T10:20:35.247Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-06T11:25:16.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T11:25:16.576Z"
             },
             {
               "$type": "Document",
@@ -135,8 +133,7 @@
               "RelativeToolTip": "lib\\lib.rs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-05T18:40:15.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T18:40:15.616Z"
             },
             {
               "$type": "Document",
@@ -152,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "calc.rs",
               "DocumentMoniker": "C:\\Users\\yoann.degardin\\Documents\\learning-rust\\lib\\calc.rs",
               "RelativeDocumentMoniker": "lib\\calc.rs",

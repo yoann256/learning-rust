@@ -42,10 +42,10 @@ fn main() {
     let idkElapsedTime = randIdkTime.elapsed();
     println!("Random generated array: {:?}", idkarray);
     println!("Generated in {} seconds", get_seconds_millis(idkElapsedTime));
-    println!("UTC Time: {:?}", Utc::now())
+    println!("UTC Time: {:?}", Utc::now());
 
     println!("Thanks for using this!");
     println!("Credits:"); // json parser thing later
-    println!("- Rindo (aka AmixelHello)");
+    println!("- Rindo (aka AmixemHello)");
     println!("- Aquiles Trindade");
 }

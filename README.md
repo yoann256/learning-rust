@@ -1,5 +1,5 @@
 # Learning Rust
-This was just a little program made in Rust just to learn Rist developement.
+This was just a little program made in Rust just to learn Rust developement.
 
 ## Build
 Use ``cargo run`` or ``cargo build`` to run/build.
@@ -9,6 +9,6 @@ Use ``cargo run`` or ``cargo build`` to run/build.
 
 ## Credits
 Thanks to:
-	- Me
-	- [Aquiles Trindade](https://github.com/trindadedev13)
-	- People who made those amazing Cargo libs
+- Me
+- [Aquiles Trindade](https://github.com/trindadedev13)
+- People who made those amazing Cargo libs
